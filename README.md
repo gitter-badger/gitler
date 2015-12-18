@@ -1,4 +1,6 @@
 # gitler
+
+[![Join the chat at https://gitter.im/metasmile/gitler](https://badges.gitter.im/metasmile/gitler.svg)](https://gitter.im/metasmile/gitler?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Gitler - Line endings resolver for git.
 
 gitler will help safely you to solve the git problem about line endings in different operating system (especially Windows).
